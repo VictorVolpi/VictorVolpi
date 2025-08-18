@@ -7,6 +7,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-volpi-a7a716257/)
 
 ![Victor Volpi GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVolpi&show_icons=true&theme=dracula)
+![Victor Volpi GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVolpi&show_icons=true&theme=dracula)
 
 # Tecnologias usadas em meus projetos ... 👨‍💻
 
