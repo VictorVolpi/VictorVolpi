@@ -1,24 +1,24 @@
 # Olá! Eu sou Victor Volpi 👋
 
+# Olá! Eu sou Victor Volpi 👋
+
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorvolpidev@gmail.com)
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=11981420861&text)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/volpixs_/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-volpi-a7a716257/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-volpi-a7a716257/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://volpidev.com.br)
 
 ---
 
 ## 📈 Minhas Estatísticas
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorVolpi&theme=dracula" alt="Estatísticas do Victor Volpi"/>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorVolpi&theme=dracula" alt="Repositórios por Linguagem do Victor Volpi"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorVolpi&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorVolpi&theme=github_dark" />
+</p>
 
 ---
 ## 📂 Portfólio de Projetos
@@ -51,7 +51,7 @@
 * **Fast Car**
     * Descrição: Criação de website Multipage para oficina mecânica, seguindo melhores práticas web, incluindo HTTPS e SEO.
     * Stack: HTML, CSS, TypeScript
-    * https://palegreen-louse-521993.hostingersite.com/
+    * https://fastcarmecanicaa.com.br/
 
 * **EcoLino**
     * Descrição: Desenvolvimento de website One Page para empresa de limpeza pós-obra, com foco em SEO e performance.
@@ -79,7 +79,7 @@
 
 ## Breve descrição:
 
-* Sou Victor Gonçalves Volpi (18), Desenvolvedor Full-Stack em formação e estudante de Segurança da Informação na USJT.
+* Sou Victor Gonçalves Volpi (19), Desenvolvedor Full-Stack em formação e estudante de Segurança da Informação na USJT.
 * Com uma breve experiência em Java, Python, TypeScript e SQL, sou proativo e focado em transformar ideias em soluções práticas e seguras.
 * Minha paixão é unir desenvolvimento e segurança, sempre buscando inovação no mundo digital.
 * Certificado: Técnico em Análise e Desenvolvimento de Sistemas (ADS) – Etec de Guaianazes.
