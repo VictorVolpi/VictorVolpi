@@ -1,83 +1,117 @@
-# Olá! Eu sou Victor Volpi 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Oi%2C+sou+Victor+Volpi+%F0%9F%91%8B;Desenvolvedor+Full-Stack;Apaixonado+por+Seguran%C3%A7a" alt="Typing SVG" />
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorvolpidev@gmail.com)
-[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=11981420861&text)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/volpixs_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-volpi-a7a716257/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://volpidev.com.br)
+  <br />
+  <br />
 
----
+  <a href="mailto:victorvolpidev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=11981420861" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/victor-volpi-a7a716257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/volpixs_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://volpidev.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio" />
+  </a>
+</div>
 
-## 📈 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorVolpi&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorVolpi&theme=github_dark" />
-</p>
-
----
-## 📂 Portfólio de Projetos
-
-* **TCC: Site Educacional com Inteligência Artificial**
-    * Descrição: Elaboração de um site educacional interativo com IA, voltado para ser um ambiente informativo e auxiliar no aprendizado em uma plataforma segura (HTTPS).
-    * Stack: HTML, CSS, TypeScript (Frontend), Python/Flask (para IA)
-    * https://union-enterprise.vercel.app/
-
-* **DS Boreal – Soluções em Manutenções e Instalações**
-    * Descrição: Criação de website One Page institucional para empresa de climatização, otimizado para SEO e desempenho.
-    * Stack: HTML, CSS, TypeScript e Sql
-    * https://dsboreal.com.br
-
-* **Advocacia**
-    * Descrição: Desenvolvimento de website Multipage profissional para escritório jurídico, com foco em segurança (SSL/HTTPS) e otimização de busca (SEO).
-    * Stack: HTML, CSS, TypeScript
-    * https://ribeiroevolpiadv.com.br
-
-* **ASB Transfer**
-    * Descrição: Criação de website Multipage voltado ao setor de transfer e turismo, implementando segurança HTTPS e usabilidade.
-    * Stack: HTML, CSS, TypeScript
-    * https://abstransfer.com.br/
-
-* **Guminju**
-    * Descrição: Desenvolvimento de website Multipage seguindo melhores práticas web, incluindo HTTPS e SEO, para empresa especializada em fachadas de ACM.
-    * Stack: HTML, CSS, TypeScript
-    * https://ribeiroevolpiadv-com-br-666145.hostingersite.com/
-
-* **Fast Car**
-    * Descrição: Criação de website Multipage para oficina mecânica, seguindo melhores práticas web, incluindo HTTPS e SEO.
-    * Stack: HTML, CSS, TypeScript
-    * https://fastcarmecanicaa.com.br/
-
-* **EcoLino**
-    * Descrição: Desenvolvimento de website One Page para empresa de limpeza pós-obra, com foco em SEO e performance.
-    * Stack: HTML, CSS, TypeScript
-    *  https://ecolino.com.br
+<br />
+<br />
 
 ---
 
-## 💻 Tecnologias usadas em meus projetos
+### 🚀 Sobre Mim
+
+Sou um desenvolvedor **Full-Stack** empolgado, atualmente cursando **Segurança da Informação** na USJT e com formação técnica em **Análise e Desenvolvimento de Sistemas** pela Etec de Guaianazes. Minha missão é criar aplicações web que não apenas impressionem visualmente, mas que sejam construídas com código limpo, alta performance, excelente SEO e, acima de tudo, **segurança robusta** desde a base. Estou sempre buscando aprender e aplicar as tecnologias mais recentes para transformar ideias inovadoras em soluções digitais concretas.
+
+---
+
+### 💻 Minha Caixa de Ferramentas
 
 <p align="center">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="rn" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,nodejs,python,flask,java,php,mysql,docker,git,vscode&perline=8" alt="Minha Stack Tecnológica" />
 </p>
 
 ---
 
-### ✨ Apaixonado por tecnologia e movido pela curiosidade ...
+### 📂 Projetos em Destaque
 
-## Breve descrição:
+<table align="center">
+  <thead>
+    <tr align="center">
+      <th>Projeto</th>
+      <th>Descrição</th>
+      <th>Stack</th>
+      <th>🔗 Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td><strong>UNION</strong></td>
+      <td>Plataforma interativa para aprendizado com auxílio de Inteligência Artificial e ambiente seguro.</td>
+      <td>HTML, CSS, TS, Python/Flask</td>
+      <td><a href="https://union-enterprise.vercel.app/" target="_blank" rel="noopener noreferrer">Acessar</a></td>
+    </tr>
+    <tr align="center">
+      <td><strong>DS Boreal</strong></td>
+      <td>Website institucional focado em climatização, otimizado para SEO e performance.</td>
+      <td>HTML, CSS, TypeScript</td>
+      <td><a href="https://dsboreal.com.br" target="_blank" rel="noopener noreferrer">Acessar</a></td>
+    </tr>
+    <tr align="center">
+      <td><strong>Advocacia</strong></td>
+      <td>Portal multipage profissional para escritório jurídico, com foco em segurança e busca (SEO).</td>
+      <td>HTML, CSS, TypeScript</td>
+      <td><a href="https://ribeiroevolpiadv.com.br" target="_blank" rel="noopener noreferrer">Acessar</a></td>
+    </tr>
+    <tr align="center">
+      <td><strong>ASB Transfer</strong></td>
+      <td>Website institucional para empresa de Transfer com Sistema de agendamento e apresentação para o setor de transfer e turismo.</td>
+      <td>HTML, CSS, TypeScript</td>
+      <td><a href="https://www.asbtransporte.com.br/" target="_blank" rel="noopener noreferrer">Acessar</a></td>
+    </tr>
+    <tr align="center">
+      <td><strong>AM Comunicação Visual</strong></td>
+      <td>Website institucional para empresa de fachadas em ACM, seguindo melhores práticas web.</td>
+      <td>HTML, CSS, TypeScript</td>
+      <td><a href="http://amvisual.com.br/" target="_blank" rel="noopener noreferrer">Acessar</a></td>
+    </tr>
+    <tr align="center">
+      <td><strong>Fast Car</strong></td>
+      <td>Website comercial para oficina mecânica, otimizado para conversão e SEO.</td>
+      <td>HTML, CSS, TypeScript</td>
+      <td><a href="https://fastcarmecanicaa.com.br/" target="_blank" rel="noopener noreferrer">Acessar</a></td>
+    </tr>
+    <tr align="center">
+      <td><strong>EcoLino</strong></td>
+      <td>Landing page para empresa de limpeza pós-obra, com foco em SEO e desempenho.</td>
+      <td>HTML, CSS, TypeScript</td>
+      <td><a href="https://ecolino.com.br" target="_blank" rel="noopener noreferrer">Acessar</a></td>
+    </tr>
+  </tbody>
+</table>
 
-* Sou Victor Gonçalves Volpi (19), Desenvolvedor Full-Stack em formação e estudante de Segurança da Informação na USJT.
-* Com uma breve experiência em Java, Python, TypeScript e SQL, sou proativo e focado em transformar ideias em soluções práticas e seguras.
-* Minha paixão é unir desenvolvimento e segurança, sempre buscando inovação no mundo digital.
-* Certificado: Técnico em Análise e Desenvolvimento de Sistemas (ADS) – Etec de Guaianazes.
+---
+
+### 📊 Minhas Estatísticas
+
+<p align="center">
+  <table align="center" border="0">
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorVolpi&theme=tokyonight" alt="Profile Details" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorVolpi&theme=tokyonight" alt="Repos per Language" /></td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,100,255&height=120&section=footer" width="100%" />
+</div>
